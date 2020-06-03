@@ -1,6 +1,5 @@
 //
 //  ViewInstantiable.swift
-//  VPN Guard
 //
 //  Created by Ali Fakih on 3/9/20.
 //  Copyright © 2020 beApp. All rights reserved.

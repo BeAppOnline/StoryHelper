@@ -1,6 +1,5 @@
 //
 //  Loadable.swift
-//  VPN Guard
 //
 //  Created by Ali Fakih on 4/18/20.
 //  Copyright © 2020 beApp. All rights reserved.
