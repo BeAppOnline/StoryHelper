@@ -1,3 +1,3 @@
 # StoryHelper
 
-A description of this package.
+A tools to help to initalize and modfy views in App
